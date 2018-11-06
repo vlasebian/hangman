@@ -1,0 +1,15 @@
+HANGMAN
+
+A basic hangman game written in C.
+
+The game requires the ncurses library. Run:
+
+    sudo apt-get install libncurses5-dev 
+
+to install the library.
+
+Compile the game using make command. 
+
+Run the game with the text files that contain expressions given as arguments.
+
+
